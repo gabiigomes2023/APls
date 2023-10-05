@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const searchButton = document.getElementById('search-buuton');
+    const searchButton = document.getElementById('search-button');
     const cepInput = document.getElementById('cep-input');
     const addressInfo = document.getElementById('address-info');
 
