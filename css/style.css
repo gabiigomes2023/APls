@@ -1,6 +1,8 @@
 * {
     padding: 0;
     box-sizing: border-box;
+    margin: 0;
+    background-color: #daca7c;
 }
 
 .main{
@@ -13,9 +15,9 @@
     width: 20%;
     margin: 0 auto;
     padding: 20px;
-    border: 1px solid #ccc;
+    border: 1px solid #cccccce5;
     border-radius: 5px;
-    background-color: #fff;
+    background-color: #daca7c;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
 }
 
@@ -32,13 +34,13 @@ input[type="text"] {
     width: 80%;
     padding: 10px;
     margin: 10px 0;
-    border: 1px solid #ccc;
+    border: 1px solid #ffffff;
     border-radius: 5px;
 }
 
 button {
-    background-color: #007BFF;
-    color: #fff;
+    background-color: #312a1d;
+    color: #ffffff;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
@@ -46,11 +48,10 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #998254;
 }
 
 #address-info {
     margin-top: 20px;
     text-align: left;
 }
-
